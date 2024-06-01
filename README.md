@@ -11,8 +11,8 @@ The dataset used in this project contains information about Hollywood movies fro
 
 ## Data Transformation and Visualisation in Power BI
 1. Imported the cleaned CSV file into Power BI.
-2. Transformed the data as required for analysis and visualization.
-3. Created a dashboard titled "Hollywood Movie Performance 2007-2011" with the following visualizations:
+2. Transformed the data as required for analysis and visualisation.
+3. Created a dashboard titled "Hollywood Movie Performance 2007-2011" with the following visualisations:
 
 ## Dashboard Visualisations:
 1. 🍅 **Rotten Tomatoes Rating by Genre**
