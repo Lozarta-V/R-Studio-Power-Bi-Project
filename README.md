@@ -29,7 +29,7 @@ The dataset used in this project contains information about Hollywood movies fro
 12. 📈 **Film by Profitability**
 
 ![Image Description](https://github.com/Lozarta-V/R-Studio-Power-Bi-Project/blob/main/Screenshot%202024-06-05%20182102.png?raw=true)
-![Image Description](https://github.com/Lozarta-V/R-Studio-Power-Bi-Project/blob/main/Screenshot%202024-06-05%20213031.png?raw=true)
+![Image Description](https://github.com/Lozarta-V/R-Studio-Power-Bi-Project/blob/main/Screenshot%202024-06-05%20213730.png?raw=true)
 
 
 ## Conclusion
