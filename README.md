@@ -16,16 +16,16 @@ The dataset used in this project contains information about Hollywood movies fro
 
 ## Dashboard Visualisations:
 1. 🍅 **Average Rotten Tomatoes Rating by Genre**
-2. 🎬 **Average Rotten Tomatoes Rating by Lead Studio** 
-3. 👥 **Audience Score by Film** 
-4. 💰 **Profitability by Lead Studio** 
-5. 🌍 **Average Worldwide Gross by Genre** 
-6. 📅 **Number of Films Released by Year**
-7. 📊 **Average Rotten Tomatoes Rating** 
-8. 📉 **Average Audience Score** 
-9. 📈 **Average Worldwide Gross by Genre**
-10. 📋 **Profitability by Genre**
-11. 📊 **Average Worldwide Gross by Lead Studio**
+2. 📈 **Average Worldwide Gross by Genre**
+3. 🌍 **Worldwide Gross and Audience Score of Films**
+4. 📋 **Profitability by Genre**
+5. 🎬 **Average Rotten Tomatoes Rating by Lead Studio**
+6. 📊 **Average Worldwide Gross by Lead Studio**
+7. 💰 **Profitability by Lead Studio** 
+8. 👥 **Audience Score by Film** 
+9. 📊 **Average Rotten Tomatoes Rating** 
+10. 📉 **Average Audience Score** 
+11. 📅 **Number of Films Released by Year** 
 12. 📈 **Film by Profitability**
 
 ![Image Description](https://github.com/Lozarta-V/R-Studio-Power-Bi-Project/blob/main/Screenshot%202024-06-05%20182102.png?raw=true)
