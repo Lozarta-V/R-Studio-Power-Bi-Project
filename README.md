@@ -1,7 +1,7 @@
 # Hollywood Movie Performance 2007-2011
 
 ## Dataset Description
-The dataset used in this project contains information about Hollywood movies from 2007 to 2011, including details such as movie title, genre, lead studio, Rotten Tomatoes rating, audience score, worldwide gross, and profitability. I 
+The dataset used in this project contains information about Hollywood movies from 2007 to 2011, including details such as movie title, genre, lead studio, Rotten Tomatoes rating, audience score, worldwide gross, and profitability. 
 
 ## Data Preparation Steps in R Studio
 1. Loaded the "Hollywood Most Profitable Stories" dataset as a CSV file into R Studio.
@@ -33,4 +33,4 @@ The dataset used in this project contains information about Hollywood movies fro
 
 
 ## Conclusion
-🎬💡 These Power BI dashboards provides valuable insights into the performance of Hollywood movies between 2007 and 2011. Users can explore various aspects such as ratings, profitability, and revenue trends to understand the dynamics of the movie industry during this period. 
+These Power BI dashboards provides valuable insights into the performance of Hollywood movies between 2007 and 2011. Users can explore various aspects such as ratings, profitability, and revenue trends to understand the dynamics of the movie industry during this period. 
