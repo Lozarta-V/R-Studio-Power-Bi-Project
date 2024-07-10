@@ -14,19 +14,23 @@ The dataset used in this project contains information about Hollywood movies fro
 2. Transformed the data as required for analysis and visualisation.
 3. Created two dashboards titled "Hollywood Movie Performance 2007-2011" with the following visualisations:
 
-## Dashboard Visualisations:
-1. 🍅 **Average Rotten Tomatoes Rating by Genre**
-2. 📈 **Average Worldwide Gross by Genre**
-3. 🌍 **Worldwide Gross and Audience Score of Films**
-4. 📋 **Profitability by Genre**
-5. 🎬 **Average Rotten Tomatoes Rating by Lead Studio**
-6. 📊 **Average Worldwide Gross by Lead Studio**
-7. 💰 **Profitability by Lead Studio** 
-8. 👥 **Audience Score by Film** 
-9. 📊 **Average Rotten Tomatoes Rating** 
-10. 📉 **Average Audience Score** 
-11. 📅 **Number of Films Released by Year** 
-12. 📈 **Film by Profitability**
+## Analysis Metrics
+
+| Category              | Metric                                         | Icon   |
+| --------------------- | ----------------------------------------------- | ------ |
+| **Rotten Tomatoes**   | Average Rotten Tomatoes Rating by Genre        | 🍅     |
+|                       | Average Rotten Tomatoes Rating by Lead Studio  | 🎬     |
+|                       | Average Rotten Tomatoes Rating                 | 📊     |
+| **Worldwide Gross**   | Average Worldwide Gross by Genre               | 📈     |
+|                       | Average Worldwide Gross by Lead Studio         | 📊     |
+|                       | Worldwide Gross and Audience Score of Films    | 🌍     |
+| **Profitability**     | Profitability by Genre                         | 📋     |
+|                       | Profitability by Lead Studio                   | 💰     |
+|                       | Film by Profitability                          | 📈     |
+| **Audience Score**    | Audience Score by Film                         | 👥     |
+|                       | Average Audience Score                         | 📉     |
+| **Releases**          | Number of Films Released by Year               | 📅     |
+
 
 ![Image Description](https://github.com/Lozarta-V/R-Studio-Power-Bi-Project/blob/main/Screenshot%202024-06-05%20182102.png?raw=true)
 ![Image Description](https://github.com/Lozarta-V/R-Studio-Power-Bi-Project/blob/main/Screenshot%202024-06-05%20213730.png?raw=true)
