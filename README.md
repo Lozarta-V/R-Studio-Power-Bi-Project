@@ -14,27 +14,16 @@ The dataset used in this project contains information about Hollywood movies fro
 2. Transformed the data as required for analysis and visualisation.
 3. Created two dashboards titled "Hollywood Movie Performance 2007-2011" with the following visualisations:
 
-## Analysis Metrics
-
-| Category              | Metric                                         | Icon   |
-| --------------------- | ----------------------------------------------- | ------ |
-| **Rotten Tomatoes**   | Average Rotten Tomatoes Rating by Genre        | 🍅     |
-|                       | Average Rotten Tomatoes Rating by Lead Studio  | 🎬     |
-|                       | Average Rotten Tomatoes Rating                 | 📊     |
-| **Worldwide Gross**   | Average Worldwide Gross by Genre               | 📈     |
-|                       | Average Worldwide Gross by Lead Studio         | 📊     |
-|                       | Worldwide Gross and Audience Score of Films    | 🌍     |
-| **Profitability**     | Profitability by Genre                         | 📋     |
-|                       | Profitability by Lead Studio                   | 💰     |
-|                       | Film by Profitability                          | 📈     |
-| **Audience Score**    | Audience Score by Film                         | 👥     |
-|                       | Average Audience Score                         | 📉     |
-| **Releases**          | Number of Films Released by Year               | 📅     |
-
-
 ![Image Description](https://github.com/Lozarta-V/R-Studio-Power-Bi-Project/blob/main/Screenshot%202024-06-05%20182102.png?raw=true)
 ![Image Description](https://github.com/Lozarta-V/R-Studio-Power-Bi-Project/blob/main/Screenshot%202024-06-05%20213730.png?raw=true)
 
+## Analysis Metrics
+
+| Rotten Tomatoes Rating                           | Worldwide Gross                                   | Profitability                                     | Audience Score                    | Releases                               |
+| ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ | --------------------------------- | -------------------------------------- |
+| 🍅 Average Rotten Tomatoes Rating by Genre       | 📈 Average Worldwide Gross by Genre               | 📋 Profitability by Genre                         | 👥 Audience Score by Film          | 📅 Number of Films Released by Year    |
+| 🎬 Average Rotten Tomatoes Rating by Lead Studio | 📊 Average Worldwide Gross by Lead Studio         | 💰 Profitability by Lead Studio                   | 📉 Average Audience Score          |                                        |
+| 📊 Average Rotten Tomatoes Rating                | 🌍 Worldwide Gross and Audience Score of Films    | 📈 Film by Profitability                          |                                   |                                        |
 
 ## Conclusion
 These Power BI dashboards provides valuable insights into the performance of Hollywood movies between 2007 and 2011. Users can explore various aspects such as ratings, profitability, and revenue trends to understand the dynamics of the movie industry during this period. 
