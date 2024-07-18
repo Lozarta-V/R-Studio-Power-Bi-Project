@@ -14,7 +14,7 @@ The dataset used in this project contains information about Hollywood movies fro
 2. Transformed the data as required for analysis and visualisation.
 3. Created two dashboards titled "Hollywood Movie Performance 2007-2011" with the following visualisations:
 
-![Image Description](https://github.com/Lozarta-V/R-Studio-Power-Bi-Project/blob/main/Screenshot%202024-07-18%20171516.png?raw=true)
+![Image Description](https://github.com/Lozarta-V/R-Studio-Power-Bi-Project/blob/main/Screenshot%202024-07-18%20183125.png?raw=true)
 ![Image Description](https://github.com/Lozarta-V/R-Studio-Power-Bi-Project/blob/main/Screenshot%202024-07-18%20183236.png?raw=true)
 
 ## Analysis Metrics
